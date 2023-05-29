@@ -1,0 +1,6 @@
+decoded:
+  cache:
+    port: 11352
+    host: -------------------------- //replace with yours
+    password: -------------------------- //replace with yours
+    default-ttl: 180
